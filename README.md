@@ -23,9 +23,9 @@ pip3 install .
 
 ## Testing
 
-Celsius Network offers a number of different "partner" integrations. The one this library leverages is the "Omnibus Treasury" partnership which is documented [here][omnibus-treasury].
+Celsius Network offers a number of different "partner" integrations. The one this library leverages is the "Omnibus Integration Partner" partnership which is documented [here][omnibus-integration-partner].
 
-Instructions on how to acquire a partner token are described in that document and it links to a guide on [generating an API key][api-key].
+Instructions on how to acquire a partner token are described in that document and it links to a guide on [generating an API key][celsius-api-key].
 
 Postman Docs for their API can be found [here][omnibus-postman-docs].
 
@@ -57,7 +57,7 @@ Once the release has been published, the [`.github/workflows/python-publish.yml`
 
 [api-key]: https://developers.celsius.network/createAPIKey.html
 [myb]: https://github.com/mine-your-business
-[omnibus-treasury]: https://developers.celsius.network/omnibus-treasury.html
+[omnibus-integration-partner]: https://developers.celsius.network/integration-partner.html
 [omnibus-postman-docs]: https://documenter.getpostman.com/view/4207695/Rzn6v2mZ#83677182-2cc9-4198-b574-77ad0862237b
 [publish]: .github/workflows/python-publish.yml
 [pypi]: https://pypi.org/
