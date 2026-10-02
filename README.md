@@ -1,4 +1,8 @@
 # myb-celsius-network-api
+
+> [!NOTE]
+> **Archived.** Celsius Network filed for bankruptcy in July 2022 and has shut down, so its API no longer exists.
+
  An API client for the Celsius Network (Wallet) API
 
 ## Installation
